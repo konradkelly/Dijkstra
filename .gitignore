@@ -1,0 +1,18 @@
+# Instructor-only files
+solution/
+CHEAT_SHEET.md
+LESSON_PLAN.md
+tools/
+*.pptx
+
+# Java build output
+assignment/out/
+
+# Assignment sub-readme (root README is the only one)
+assignment/README.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
